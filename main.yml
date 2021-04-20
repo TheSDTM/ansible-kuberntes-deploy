@@ -2,3 +2,4 @@
 - import_playbook: 02-kube-dependencies.yml
 - import_playbook: 03-master.yml
 - import_playbook: 04-workers.yml
+- import_playbook: 05-install-dependencies.yml
